@@ -11,6 +11,13 @@ public void BrowserAutomation()
 	System.out.println("AppAutomation");
 }
 @Test
+public void BrowserAutomation1()
+{
+	System.out.println("BrowserAutomation");
+	System.out.println("MobileAutomation");
+	System.out.println("AppAutomation");
+}
+@Test
 public void ElementsUI()
 {
 	System.out.println("ElementsUI");
